@@ -98,7 +98,7 @@
   <a href="https://www.linkedin.com/in/kasbogucka/">
      <img  src="https://img.shields.io/badge/linkedin-747372?style=for-the-badge&logo=linkedin&logoColor=F8B8E5" alt="email">
   <a/>&nbsp;
-  <a href="https://www.youtube.com/channel/UCGnuM2nVtEKj5fEkGfz058Q">
+  <a href="/">
      <img  src="https://img.shields.io/badge/YouTube-747372?style=for-the-badge&logo=youtube&logoColor=F8B8E5" alt="website">
   <a/>
 <p/>
