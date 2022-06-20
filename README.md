@@ -4,7 +4,7 @@
   <a/>&nbsp;
     <p/>
     
-<h5 align="center">My Portfolio:</h5><hr>
+<hr><h5 align="center">My Portfolio:</h5>
 <p align="center">
   <a href="https://bezebee.github.io/Beeing-About/">
   <img src="https://res.cloudinary.com/dktp8kmgf/image/upload/v1655709017/README/beeingAbout_hs8lvk.png" width="20%" />
@@ -35,7 +35,7 @@
 </p>
 
 
-<h5 align="center">My Tech Stacks:</h5><hr>
+<hr><h5 align="center">My Tech Stacks:</h5>
 
 <p align="center">
   <a href="/">
@@ -89,7 +89,7 @@
   <a/>&nbsp;
     <p/>
                 
-<h5 align="center">Connect with me:</h5><hr>
+<hr><h5 align="center">Connect with me:</h5>
 
 <p align="center">
   <a href="mailto:kas.bogucka@gmail.com">
