@@ -106,13 +106,7 @@
   <a/>
 <p/>
 
-<!-- Profile View Count -->
 
- <p align="center">
-    <a href="https://visitor-badge.glitch.me/">
-      <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=bezebee.bezebee&left_color=pink&right_color=gray&left_text=Hello%20Visitors">
-    </a>
-  </p>
     
     
     
