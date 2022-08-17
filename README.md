@@ -81,6 +81,15 @@
      <img  src="https://img.shields.io/badge/Markdown-747372?style=for-the-badge&logo=Markdown&logoColor=F8B8E5" alt="Markdown">
    <a/>&nbsp;
   <p/>
+     
+ <p align="center">
+   <a href="/">
+     <img  src="https://img.shields.io/badge/Bootstrap-747372?style=for-the-badge&logo=Bootstrap&logoColor=F8B8E5" alt="bootstrap">
+   <a/>&nbsp;
+   <a href="/">
+     <img  src="https://img.shields.io/badge/Materialize-747372?style=for-the-badge&logoColor=F8B8E5" alt="materialize">
+   <a/>&nbsp;   
+  <p/>
 
  <h5 align="center">Currently Upskilling on:</h5>
      <p align="center">
