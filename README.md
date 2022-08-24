@@ -97,7 +97,7 @@
      <img  src="https://img.shields.io/badge/React-747372?style=for-the-badge&logo=React&logoColor=F8B8E5" alt="react">
   <a/>&nbsp;
     <a href="/">
-     <img  src="https://img.shields.io/badge/TailwindCSS-747372?style=for-the-badge&logoColor=F8B8E5" alt="tailwindCSS">
+     <img  src="https://img.shields.io/badge/Tailwind CSS-747372?style=for-the-badge&logoColor=F8B8E5" alt="tailwindCSS">
   <a/>&nbsp;
     <p/>
                 
