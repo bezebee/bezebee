@@ -4,35 +4,7 @@
   <a/>&nbsp;
     <p/>
     
-<hr><h5 align="center">My Portfolio:</h5>
-<p align="center">
-  <a href="https://bezebee.github.io/Beeing-About/">
-  <img src="https://res.cloudinary.com/dktp8kmgf/image/upload/v1655709017/README/beeingAbout_hs8lvk.png" width="20%" />
-    <a/>&nbsp;
-  <a href="https://bezebee.github.io/Vagabond/">
-  <img src="https://res.cloudinary.com/dktp8kmgf/image/upload/v1655709017/README/vagabonds_b0rw1n.png" width="20%" />
-    <a/>&nbsp;
-<!--   <a href="https://keto-cookbook.herokuapp.com/">
-  <img src="https://res.cloudinary.com/dktp8kmgf/image/upload/v1655709423/README/screens_2_cv9ovt.png" width="20%" />
-    <a/>&nbsp; -->
-  <a href="https://ms4nicknacks.herokuapp.com/">
-  <img src="https://res.cloudinary.com/dktp8kmgf/image/upload/v1655709021/README/nicknacks_j58k86.png" width="20%" />
-    <a/>&nbsp;
-</p>
- <p align="center">
-  <a href="https://github.com/bezebee/Beeing-About">
-  <img src="https://img.shields.io/badge/Beeing About Repository-747372?style=for-the-badge&logo=GitHub&logoColor=F8B8E5" width="20%" />
-    <a/>&nbsp;
-  <a href="https://github.com/bezebee/Vagabond">
-  <img src="https://img.shields.io/badge/Vagabond Repository-747372?style=for-the-badge&logo=GitHub&logoColor=F8B8E5" width="20%" />
-    <a/>&nbsp;
-<!--   <a href="https://github.com/bezebee/kasias-KETO-cookbook">
-  <img src="https://img.shields.io/badge/Cookbook Repository-747372?style=for-the-badge&logo=GitHub&logoColor=F8B8E5" width="20%" />
-    <a/>&nbsp; -->
-  <a href="https://github.com/bezebee/MS4">
-  <img src="https://img.shields.io/badge/Nicknacks Repository-747372?style=for-the-badge&logo=GitHub&logoColor=F8B8E5" width="20%" />
-    <a/>&nbsp;
-</p>
+
 
 
 <hr><h5 align="center">My Tech Stacks:</h5>
